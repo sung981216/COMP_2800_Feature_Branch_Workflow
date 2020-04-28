@@ -9,13 +9,9 @@ h1 {
 .container { 
     margin: 0 auto;
     width: 800px;
-<<<<<<< HEAD
-    text-align: center; 
-=======
     text-align: center;
 }
 
 .clickable {
     cursor: hand;
->>>>>>> Sung_Na_feature2
 }
